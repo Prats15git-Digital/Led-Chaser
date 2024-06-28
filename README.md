@@ -10,3 +10,6 @@ The RTL schematic for the circuit is shown below:
 The waveform after behavioral simulation of the testbench code is shown below :
 
 ![Screenshot 2024-06-28 235443](https://github.com/Prats15git-Digital/Led-Chaser/assets/173728218/fa437e3d-c06e-4adc-baa8-af759aa4b6fc)
+
+You can clearly observe that the initialstate of the led was set to 00000011. Only when the Reset transitioned to 0, the led was triggered by the posedge of the clock. Now at every posedge, the binary values are
+left shifted as you can observe from the simulated waveform.
