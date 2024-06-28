@@ -7,5 +7,6 @@ The RTL schematic for the circuit is shown below:
 ![Screenshot 2024-06-28 235318](https://github.com/Prats15git-Digital/Led-Chaser/assets/173728218/126efc17-036f-411a-904d-89509773c506)
 
 
-
 The waveform after behavioral simulation of the testbench code is shown below :
+
+![Screenshot 2024-06-28 235443](https://github.com/Prats15git-Digital/Led-Chaser/assets/173728218/fa437e3d-c06e-4adc-baa8-af759aa4b6fc)
